@@ -30,8 +30,7 @@ export function Contact() {
       <div className="reveal">
         <h2 className="big">Let's <span className="acc">build</span> something solid.</h2>
         <p className="sub">
-          Backend role, mechanical consult, side project — or just a coffee in
-          Barcelona. Drop a line.
+          Collaboration, consulting, side project — or anything else. Drop a line.
         </p>
 
         <div className="channels">
