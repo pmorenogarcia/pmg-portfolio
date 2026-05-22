@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Copy-Item \"C:\\\\Users\\\\polmo\\\\Desktop\\\\Portfolio\\\\v4_pmg_portfolio\\\\assets\\\\kronnus-logo.png\" \"C:\\\\Users\\\\polmo\\\\Desktop\\\\Portfolio\\\\v4_pmg_portfolio\\\\public\\\\kronnus-logo.png\")",
+      "Bash(npm install *)",
+      "Bash(npm run *)"
+    ]
+  }
+}
