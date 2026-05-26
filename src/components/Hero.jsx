@@ -55,7 +55,7 @@ export function Hero() {
 
           <div className="ctas" style={{ marginTop: 24 }}>
             <a className="btn solid" href="#projects">View Work</a>
-            <a className="btn accent" href="/resume_pol_moreno_garcia.pdf" download>
+            <a className="btn accent" href="/pmorenogarcia_cv.pdf" download>
               <DownloadIcon /> Resume.pdf
             </a>
             <a className="btn ghost" href="#contact">Get in touch</a>

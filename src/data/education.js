@@ -11,6 +11,7 @@ export const EDUCATION = [
     deg: "Bachelor's Degree of Mechanical Engineering",
     org: 'Universitat Politècnica de Catalunya (UPC)',
     blurb: 'Awarded 1st Prize for the Best Final Degree Project (TFG) in Industrial Engineering at UPC Manresa.',
+    prize: true,
   },
   {
     range: '2019',

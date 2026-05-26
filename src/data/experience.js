@@ -15,7 +15,7 @@ export const EXPERIENCE = [
     blurb: 'Teaching BMX for 10+ years and counting — coaching kids and teens from first pedal-stroke to race podium. As a staff member, I help organise national events: Downhill Spanish Nationals, BMX Race Catalonian Cup rounds, vintage motor meets. I also designed and built the club\'s official website end-to-end.',
   },
   {
-    range: 'Sep 2022 — Feb 2025',
+    range: 'Sep 2022 — Jan 2023',
     role: '3D Mechanical Design Engineer Intern',
     org: 'DEIMA',
     where: 'Manresa',
