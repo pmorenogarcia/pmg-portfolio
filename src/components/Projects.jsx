@@ -61,11 +61,8 @@ export function Projects() {
         </article>
 
         <article className="pcard mclub">
-          <div className="stage">
-            <div className="mlogo-wrap">
-              <img src="/logo-motoclub-white.png" alt="Motoclub Sant Andreu de la Barca" />
-            </div>
-            <span className="msig">▌ MOTOCLUB · SAB</span>
+          <div className="stage photo">
+            <img src="/motoclub-web.png" alt="Motoclub Sant Andreu de la Barca" />
           </div>
           <div className="info">
             <div className="top">
